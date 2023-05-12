@@ -1,0 +1,24 @@
+@use '../style/variables' as v;
+
+.welcome {
+    width: 100%;
+    height: 100vh;
+    color: v.$text-color;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: top;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-image: url('../assets/hrh.png');
+    background-position: center top 170px;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+
+    p {
+        font-size: 20px;
+    }
+
+    img {
+        height: 20%;
+    }
+}

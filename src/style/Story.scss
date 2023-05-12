@@ -1,0 +1,15 @@
+@use '../style/variables' as v;
+.story {
+    width: 70%;
+    height: auto;
+    text-align: center;
+    color: v.$text-color;
+    margin: 0 auto;
+    padding-top: 2rem;
+
+    p {
+        font-size: 20px;
+
+    }
+}
+

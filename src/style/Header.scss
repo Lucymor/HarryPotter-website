@@ -1,0 +1,69 @@
+@use '../style/variables' as v;
+
+.navbar {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+    background: rgb(41,84,102);
+    background: linear-gradient(0deg, rgba(41,84,102,1) 3%, rgba(0,0,0,1) 31%, rgba(15,61,62,1) 70%, rgba(41,84,102,1) 100%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    align-items: center;
+    
+
+    .logo {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            height: 80%;
+        }
+
+    }
+
+    .menu {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        a {
+            color: v.$text-color;
+            text-decoration: none;
+            margin: 20px;
+            font-size: 20px;
+            transition: color 0.5s ease;
+            text-align: center;
+
+            &:hover {
+                color: v.$texthover-color;
+            }
+        }
+
+        button {
+            background: none;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            display: none;
+        }
+    }
+
+    @media(max-width: 900px) {
+        .menu {
+            a {
+                display: none;
+            }
+
+            button {
+                display: inline-block;
+            }
+
+        }
+    }
+
+
+}
