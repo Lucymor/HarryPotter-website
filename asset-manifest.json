@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/harrypotter-website/static/css/main.16acff8f.css",
+    "main.js": "/harrypotter-website/static/js/main.6485ce92.js",
+    "static/media/hlwallpaper.jpg": "/harrypotter-website/static/media/hlwallpaper.2fc740f931595f445729.jpg",
+    "static/media/letter.png": "/harrypotter-website/static/media/letter.8581b8edc9d218eae0b9.png",
+    "static/media/hrh.png": "/harrypotter-website/static/media/hrh.956fa1d55ce59f9e961f.png",
+    "static/media/shop.jpg": "/harrypotter-website/static/media/shop.df1673f019583d8a7aba.jpg",
+    "static/media/hedvig.png": "/harrypotter-website/static/media/hedvig.567eb85940017c05d2ea.png",
+    "static/media/Dumbledore.png": "/harrypotter-website/static/media/Dumbledore.484447bbce3ddfa781ed.png",
+    "static/media/Hagrid.png": "/harrypotter-website/static/media/Hagrid.19827472257227da4185.png",
+    "static/media/train.jpg": "/harrypotter-website/static/media/train.f6e6db5ca49489119d31.jpg",
+    "static/media/wb.jpg": "/harrypotter-website/static/media/wb.3bbcb7a9f422b9ab2cd2.jpg",
+    "static/media/Ronald_Weasley.webp": "/harrypotter-website/static/media/Ronald_Weasley.bd94cf5090da77e0b9f6.webp",
+    "static/media/Hermione_Granger.webp": "/harrypotter-website/static/media/Hermione_Granger.45cae682baddfd735377.webp",
+    "static/media/hplogo.png": "/harrypotter-website/static/media/hplogo.74a22dabfab5f7ea82e4.png",
+    "static/media/Voldemort.jpg": "/harrypotter-website/static/media/Voldemort.46b8a53eae8729698364.jpg",
+    "static/media/Harry_Potter.jpg": "/harrypotter-website/static/media/Harry_Potter.404120fbbfc615200079.jpg",
+    "index.html": "/harrypotter-website/index.html",
+    "main.16acff8f.css.map": "/harrypotter-website/static/css/main.16acff8f.css.map",
+    "main.6485ce92.js.map": "/harrypotter-website/static/js/main.6485ce92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16acff8f.css",
+    "static/js/main.6485ce92.js"
+  ]
+}
